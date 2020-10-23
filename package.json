@@ -13,13 +13,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/avatl/note-taker-app.git"
+      "url": "git+https://github.com/ismaelm1991/NoteTakerApp"
     },
     "keywords": [],
     "author": "Ismael Mercado",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/avatl/note-taker-app/issues"
+      "url": "https://github.com/ismaelm1991/NoteTakerApp/issues"
     },
-    "homepage": "https://github.com/avatl/note-taker-app#readme"
+    "homepage": "https://github.com/ismaelm1991/NoteTakerApp#readme"
   }
